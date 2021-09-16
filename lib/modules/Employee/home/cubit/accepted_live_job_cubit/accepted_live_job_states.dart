@@ -1,0 +1,5 @@
+class AcceptedLiveJobsStates{}
+class LiveJobAcceptedIdleState extends AcceptedLiveJobsStates{}
+class LiveJobsAcceptedLoadingState extends AcceptedLiveJobsStates{}
+class LiveJobsAcceptedSuccessState extends AcceptedLiveJobsStates{}
+class LiveJobsAcceptedErrorState extends AcceptedLiveJobsStates{}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">733824794971-q78v79v95ek5jh2otb9qtthqolqblm0a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">733824794971</string>
+    <string name="google_api_key" translatable="false">AIzaSyDtSKkFgfZl8m39IShxqv-025rbLk_pzIk</string>
+    <string name="google_app_id" translatable="false">1:733824794971:android:52a7b21b35f3e1ae5d1a7e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtSKkFgfZl8m39IShxqv-025rbLk_pzIk</string>
+    <string name="google_storage_bucket" translatable="false">hiringapp-e4dfb.appspot.com</string>
+    <string name="project_id" translatable="false">hiringapp-e4dfb</string>
+</resources>

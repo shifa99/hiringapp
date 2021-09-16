@@ -1,0 +1,4 @@
+class CompanyDetailsStates{}
+class CompanyDetailsLoadingState extends CompanyDetailsStates{}
+class CompanyDetailsSuccessState extends CompanyDetailsStates{}
+class CompanyDetailsErrorState extends CompanyDetailsStates{}

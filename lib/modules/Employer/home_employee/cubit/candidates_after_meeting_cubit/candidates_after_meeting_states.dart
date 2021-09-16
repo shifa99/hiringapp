@@ -1,0 +1,4 @@
+abstract class CandidatesAfterMeetingStates{}
+class CandidatesAfterMeetingLoadingState extends CandidatesAfterMeetingStates{}
+class CandidatesAfterMeetingSuccessState extends CandidatesAfterMeetingStates{}
+class CandidatesAfterMeetingErrorState extends CandidatesAfterMeetingStates{}

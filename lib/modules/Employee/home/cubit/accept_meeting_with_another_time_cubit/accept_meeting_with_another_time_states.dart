@@ -1,0 +1,5 @@
+class AcceptMeetingWithAnotherTimeStates{}
+class AcceptMeetingWithAnotherTimeIdleState extends AcceptMeetingWithAnotherTimeStates{}
+class AcceptMeetingWithAnotherTimeLoadingState extends AcceptMeetingWithAnotherTimeStates{}
+class AcceptMeetingWithAnotherTimeSuccessState extends AcceptMeetingWithAnotherTimeStates{}
+class AcceptMeetingWithAnotherTimeErrorState extends AcceptMeetingWithAnotherTimeStates{}

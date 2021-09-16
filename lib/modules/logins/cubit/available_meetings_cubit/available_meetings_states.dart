@@ -1,0 +1,5 @@
+class AvailableMeetingsStates {}
+class IdleAvailableMeetingsStates extends AvailableMeetingsStates{}
+class LoadingAvailableMeetingsStates extends AvailableMeetingsStates{}
+class SuccessAvailableMeetingsStates extends AvailableMeetingsStates{}
+class ErrorAvailableMeetingsStates extends AvailableMeetingsStates{}
